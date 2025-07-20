@@ -51,7 +51,7 @@ Your dataset should be in `.jsonl` format like this:
 
 Use the `trl.SFTTrainer` with PEFT LoRA to fine-tune the model.
 
-📘 Full training code available in [`notebooks/fine_tune_gemma.ipynb`](notebooks/fine_tune_gemma.ipynb)
+📘 Full training code available in [`fine_tune_gemma.ipynb`](fine_tune_gemma.ipynb)
 
 ---
 
@@ -82,8 +82,9 @@ If you want to improve this project or suggest better code, feel free to **open 
 
 ## 🌟 Star this project if it helped you!
 
+
 > Built with ❤️ and 🧠 by an aspiring AI Developer
 
 ---
 
-🎉 **Happy coding!**
+Happy Coding! 🚀
