@@ -1,6 +1,6 @@
-# 🔧 Fine-Tuning gemma-3-1b-it with Hugging Face + llama.cpp
+# 🔧 Fine-Tuning Gemma-3-1B-IT with Hugging Face + llama.cpp
 
-This project demonstrates how to fine-tune [Gemma-3B-IT](https://huggingface.co/google/gemma-3-1b-it) using Hugging Face Transformers with PEFT, LoRA, and BitsAndBytes for efficient training. The final model is converted to **GGUF** format for local inference using `llama.cpp`.
+This project demonstrates how to fine-tune [Gemma-3-1B-IT](https://huggingface.co/google/gemma-3-1b-it) using Hugging Face Transformers with PEFT, LoRA, and BitsAndBytes for efficient training. The final model is converted to **GGUF** format for local inference using `llama.cpp`.
 
 ---
 
