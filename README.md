@@ -87,4 +87,9 @@ If you want to improve this project or suggest better code, feel free to **open 
 
 ---
 
-Happy Coding! 🚀
+<p align="center">
+  <b>#DPMG</b><br>
+  <sub>Discipline • Peace • Myself • Growth</sub>
+</p>
+
+<p align="center"><sup>Happy Coding! 🚀</sup></p>
